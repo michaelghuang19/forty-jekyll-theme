@@ -1,3 +1,5 @@
+# Go to [michaelghuang.me](https://michaelhuang.me) to check if this is working
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
