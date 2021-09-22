@@ -1,4 +1,4 @@
-# Go to [michaelghuang.me](https://michaelhuang.me) to check if this is working
+# Go to [michaelhuang.me](https://michaelhuang.me) to check if this is working
 
 # Forty - Jekyll Theme
 
